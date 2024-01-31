@@ -20,5 +20,5 @@ Please don't contribute news items about yourself, or someone who's a friend or 
 
 So far we have only one issue, and no comments. We hope this will change soon.
 
-1.  [David L. Mills despite glaucoma develops Network Time Protocol, dies at 85](../../news/issues/1)
+1.  [David L. Mills despite glaucoma develops Network Time Protocol, dies at 85](../../issues/1)
 
